@@ -76,7 +76,8 @@ Casualties by Road Type
 
 
 Casualties by Road Surfaces 
-<img width="762" height="509" alt="Screenshot 2026-06-20 073110" src="https://github.com/user-attachments/assets/d42991a8-b154-4333-b99c-1954e5c7ecd7" />
+<img width="762" height="497" alt="Screenshot 2026-06-17 061545" src="https://github.com/user-attachments/assets/027e03f8-7fc3-49d4-adeb-e685e413a2e9" />
+
 
 
 Casualties by Location and Light Conditions
