@@ -397,32 +397,32 @@ The dashboard was designed with a focus on KPI monitoring, trend analysis, accid
 
 <img width="1261" height="674" alt="Screenshot 2026-06-20 113059" src="https://github.com/user-attachments/assets/0ffd49c7-0272-4c58-b16a-1d68c99b94fa" />
 
-### 🚑 Total Current Year (CY) Casualties
+## 🚑 Total Current Year (CY) Casualties
 
 ### Visualization
 
 <img width="1109" height="612" alt="image" src="https://github.com/user-attachments/assets/bee691db-d714-41d2-b7d1-24c3a8cc140e" />
 
 
-### 🚗 Total Current Year (CY) Accidents
+## 🚗 Total Current Year (CY) Accidents
 
 #### Visualization
 <img width="1068" height="572" alt="Screenshot 2026-06-20 113538" src="https://github.com/user-attachments/assets/037e4f5d-e913-4e07-8a65-d6a732a2330c" />
 
 
-### ⚠️ CY Fatal Casualties
+## ⚠️ CY Fatal Casualties
 
 #### Visualization
 <img width="1061" height="577" alt="Screenshot 2026-06-20 113715" src="https://github.com/user-attachments/assets/f17fbe7e-f46f-4690-b3d0-1aa776f7f1c5" />
 
 
-### 🏥 CY Serious Casualties
+## 🏥 CY Serious Casualties
 
 #### Image
 <img width="1064" height="594" alt="Screenshot 2026-06-20 113739" src="https://github.com/user-attachments/assets/4ced11c4-6e30-41f5-a885-84643d5e6a94" />
 
 
-### 🤕 CY Slight Casualties
+## 🤕 CY Slight Casualties
 
 #### Visualization
 <img width="1063" height="588" alt="Screenshot 2026-06-20 113805" src="https://github.com/user-attachments/assets/898ade9c-307b-4297-ba69-82aa167ce3df" />
@@ -489,7 +489,7 @@ Targeted road safety initiatives for car drivers can significantly reduce overal
 <img width="1268" height="713" alt="Screenshot 2026-06-20 122306" src="https://github.com/user-attachments/assets/e2e512f2-e66a-46be-9395-adda1afb2f86" />
 
 
-# 🎛️ Interactive Filters
+## 🎛️ Interactive Filters
 
 ### Timeline Filter
 <img width="455" height="344" alt="Screenshot 2026-06-20 121714" src="https://github.com/user-attachments/assets/3e277f7d-0dba-4c67-8d7d-cbfbc4071839" />
