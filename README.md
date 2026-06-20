@@ -57,7 +57,7 @@ Created an interactive dashboard featuring:
 * Location Analysis
 * Monthly Trend Analysis
 
-Explination of Each KPI and Insights along with Findings
+## Explination of Each KPI and Insights along with Findings
 
 Data Analysis sheet 
 <img width="1388" height="715" alt="Screenshot 2026-06-16 200920" src="https://github.com/user-attachments/assets/06923c00-5071-48da-bd68-eecf1087c849" />
