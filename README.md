@@ -6,7 +6,6 @@ This project analyzes road accident data from 2021 and 2022 using Excel, SQL, an
 
 The project follows a complete analytics workflow including data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and dashboard development to generate actionable insights.
 
----
 
 ## 🎯 Problem Statement
 
@@ -14,7 +13,6 @@ Road accidents result in significant fatalities, injuries, and economic losses e
 
 This project aims to analyze accident and casualty data to uncover trends related to accident severity, vehicle involvement, road conditions, location, and environmental factors.
 
----
 
 ## 🛠️ Tools Used
 
@@ -24,7 +22,6 @@ This project aims to analyze accident and casualty data to uncover trends relate
 * SQL Server Management Studio 20
 * Power BI Desktop
 
----
 
 ## 📊 Excel Analysis
 
