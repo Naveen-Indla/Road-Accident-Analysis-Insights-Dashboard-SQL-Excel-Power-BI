@@ -61,18 +61,23 @@ Explination of Each KPI and Insights along with Findings
 Data Analysis sheet 
 <img width="1388" height="715" alt="Screenshot 2026-06-16 200920" src="https://github.com/user-attachments/assets/06923c00-5071-48da-bd68-eecf1087c849" />
 
+
 KPI Sheet
 <img width="1745" height="721" alt="Screenshot 2026-06-17 062128" src="https://github.com/user-attachments/assets/53d766d6-eb3b-473e-a6bf-30c9b87669b3" />
 
+
 Monthly Trend Analysis
 <img width="1860" height="421" alt="Screenshot 2026-06-16 201320" src="https://github.com/user-attachments/assets/3d00bcbf-c3b7-4384-8063-b511da9e12f0" />
+
 
 Casualties by Road Type and Road Surface 
 <img width="1085" height="275" alt="Screenshot 2026-06-17 061445" src="https://github.com/user-attachments/assets/1fc8faf2-377e-4d11-a169-661e1bdb6512" />
 <img width="762" height="509" alt="Screenshot 2026-06-20 073110" src="https://github.com/user-attachments/assets/d42991a8-b154-4333-b99c-1954e5c7ecd7" />
 
+
 Casualties by Location and Light Conditions
 <img width="980" height="432" alt="Screenshot 2026-06-17 061727" src="https://github.com/user-attachments/assets/523432f1-6dcf-400f-96a4-00b1c2f9b66c" />
+
 
 Filter Pane: It Consist of Timeline Filter and Slicer of uraban/rural area Locations
 <img width="1100" height="190" alt="Screenshot 2026-06-20 073844" src="https://github.com/user-attachments/assets/75b082a5-642f-4ba1-bfd3-37e52f90052b" />
