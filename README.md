@@ -44,6 +44,8 @@ This project aims to analyze accident and casualty data to uncover trends relate
 
 ### Excel Dashboard
 
+<img width="1501" height="713" alt="Screenshot 2026-06-16 195137" src="https://github.com/user-attachments/assets/ba37f770-b51a-4f34-8873-30ee7cc9fc8a" />
+
 Created an interactive dashboard featuring:
 
 * Total Casualties
