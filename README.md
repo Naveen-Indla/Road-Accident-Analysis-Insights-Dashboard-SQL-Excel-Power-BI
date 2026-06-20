@@ -59,31 +59,29 @@ Created an interactive dashboard featuring:
 
 ## Showcasing Each KPI and Insights along with Findings
 
-Data Analysis sheet 
+### Data Analysis sheet 
 <img width="1388" height="715" alt="Screenshot 2026-06-16 200920" src="https://github.com/user-attachments/assets/06923c00-5071-48da-bd68-eecf1087c849" />
 
 
-KPI Sheet
+### KPI Sheet
 <img width="1745" height="721" alt="Screenshot 2026-06-17 062128" src="https://github.com/user-attachments/assets/53d766d6-eb3b-473e-a6bf-30c9b87669b3" />
 
 
-Monthly Trend Analysis
+### Monthly Trend Analysis
 <img width="1860" height="421" alt="Screenshot 2026-06-16 201320" src="https://github.com/user-attachments/assets/3d00bcbf-c3b7-4384-8063-b511da9e12f0" />
 
 
-
-Casualties by Road Type  and Road Surfaces
+### Casualties by Road Type  and Road Surfaces
 <img width="1085" height="275" alt="Screenshot 2026-06-17 061445" src="https://github.com/user-attachments/assets/1fc8faf2-377e-4d11-a169-661e1bdb6512" />
 <img width="762" height="509" alt="Screenshot 2026-06-20 073110" src="https://github.com/user-attachments/assets/5822c7b6-0ae6-48c0-9203-3621e2ce9d05" />
 
 
-Casualties by Location and Light Conditions
+### Casualties by Location and Light Conditions
 <img width="980" height="432" alt="Screenshot 2026-06-17 061727" src="https://github.com/user-attachments/assets/523432f1-6dcf-400f-96a4-00b1c2f9b66c" />
 
 
-Filter Pane: It Consist of Timeline Filter and Slicer of uraban/rural area Locations
+### Filter Pane: It Consist of Timeline Filter and Slicer of uraban/rural area Locations
 <img width="1100" height="190" alt="Screenshot 2026-06-20 073844" src="https://github.com/user-attachments/assets/75b082a5-642f-4ba1-bfd3-37e52f90052b" />
-
 
 
 
@@ -102,7 +100,6 @@ Filter Pane: It Consist of Timeline Filter and Slicer of uraban/rural area Locat
 
 Using SQL, I performed exploratory and business-focused analysis to answer key road safety questions and uncover actionable insights from the accident dataset.
 
----
 
 ## 📊 Current Year (CY) Casualties Analysis
 
@@ -121,7 +118,6 @@ This KPI provides an overall measure of the human impact of road accidents and s
 
 <img width="1167" height="336" alt="Screenshot 2026-06-17 063911" src="https://github.com/user-attachments/assets/27b944de-d6ac-4ee7-818e-e766049831bf" />
 
----
 
 ## 🚗 Current Year (CY) Accidents Analysis
 
@@ -142,7 +138,6 @@ The number of casualties exceeds the number of accidents, indicating that many a
 
 <img width="1240" height="359" alt="Screenshot 2026-06-17 064112" src="https://github.com/user-attachments/assets/a9ee4fa0-c762-4345-9a67-75f909920570" />
 
----
 
 ## ⚠️ Casualty Severity Analysis
 
@@ -158,7 +153,6 @@ Fatal casualties represent the smallest share of total casualties but have the h
 
 <img width="1225" height="296" alt="Screenshot 2026-06-17 064242" src="https://github.com/user-attachments/assets/942916a9-6c4c-4b69-87ae-cc0b31fb43e4" />
 
----
 
 ### Serious Casualties Analysis
 
@@ -172,7 +166,6 @@ Serious injuries significantly exceed fatalities, highlighting the burden on hea
 
 <img width="1259" height="306" alt="Screenshot 2026-06-17 064340" src="https://github.com/user-attachments/assets/7f9ed375-89c8-47a8-bedf-35a98bb11250" />
 
----
 
 ### Slight Casualties Analysis
 
@@ -186,7 +179,6 @@ Slight casualties account for the majority of accident outcomes.
 
 <img width="1236" height="302" alt="Screenshot 2026-06-17 064500" src="https://github.com/user-attachments/assets/44f50288-e250-47ad-a429-d896781a5293" />
 
----
 
 ## 🚘 Vehicle Type Analysis
 
@@ -194,7 +186,7 @@ Slight casualties account for the majority of accident outcomes.
 
 Identify which vehicle categories contribute most to casualties.
 
-### Analysis
+### SQL Analysis
 
 Grouped vehicle types into:
 
@@ -219,7 +211,6 @@ Road safety initiatives focused on car drivers can have the greatest impact on c
 
 <img width="1354" height="579" alt="Screenshot 2026-06-17 064651" src="https://github.com/user-attachments/assets/8c451c5b-814a-4244-aa7f-04fa8cbaab5a" />
 
----
 
 ## 📈 Monthly Casualty Trend Analysis
 
@@ -245,7 +236,6 @@ Seasonal accident trends can support targeted awareness campaigns and traffic en
 
 <img width="1409" height="524" alt="Screenshot 2026-06-17 064810" src="https://github.com/user-attachments/assets/fe5c5d73-b362-495d-bedb-5b39d2dbd0f1" />
 
----
 
 ## 🛣️ Road Type Analysis
 
@@ -273,7 +263,6 @@ Road infrastructure improvements should prioritize Single Carriageways to reduce
 
 <img width="922" height="353" alt="Screenshot 2026-06-17 065110" src="https://github.com/user-attachments/assets/0b80209b-f3b0-400e-88ef-f7c8f959bb22" />
 
----
 
 ## 🌍 Location-Based Analysis
 
@@ -302,7 +291,6 @@ Higher traffic density in urban areas increases accident occurrence and casualty
 
 <img width="1310" height="299" alt="Screenshot 2026-06-17 065339" src="https://github.com/user-attachments/assets/aa53a028-88ca-4eb9-b1a2-b2ec914ced29" />
 
----
 
 ## 🌙 Light Condition Analysis
 
@@ -330,7 +318,6 @@ Although daylight records more casualties due to higher traffic volume, visibili
 
 <img width="1434" height="469" alt="Screenshot 2026-06-17 065500" src="https://github.com/user-attachments/assets/1e1bd6f3-a734-4b23-af2e-72cba00fb8b7" />
 
----
 
 ## 🏙️ Top 10 Local Authorities Analysis
 
@@ -355,7 +342,7 @@ Transportation authorities can prioritize these regions for safety improvements 
 
 <img width="873" height="420" alt="Screenshot 2026-06-17 065544" src="https://github.com/user-attachments/assets/c53d1670-75a5-4546-9d4e-a48bc3b327df" />
 
----
+
 
 ## 📌 Key SQL Insights
 
@@ -368,7 +355,6 @@ Transportation authorities can prioritize these regions for safety improvements 
 * Daylight conditions accounted for the majority of casualties.
 * Several local authorities emerged as high-risk accident zones.
 
----
 
 
 ## Business Questions Answered
@@ -382,6 +368,7 @@ Transportation authorities can prioritize these regions for safety improvements 
 * What impact do light conditions have on casualties?
 * Which local authorities report the highest casualty counts?
 
+
 ---
 
 # 📊 Power BI Analysis
@@ -392,7 +379,6 @@ Using Power BI, I transformed the cleaned and analyzed road accident data into a
 
 The dashboard was designed with a focus on KPI monitoring, trend analysis, accident severity analysis, and location-based reporting.
 
----
 ## Dashboard
 
 <img width="1360" height="757" alt="Screenshot 2026-06-19 090941" src="https://github.com/user-attachments/assets/90b239e4-c52a-47c6-bb0a-78277e583bfb" />
