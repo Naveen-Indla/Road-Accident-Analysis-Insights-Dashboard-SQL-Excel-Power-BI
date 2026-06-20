@@ -382,52 +382,178 @@ Transportation authorities can prioritize these regions for safety improvements 
 * What impact do light conditions have on casualties?
 * Which local authorities report the highest casualty counts?
 
-### Main Insights
+---
 
-* Cars contributed the largest share of casualties.
-* Serious casualties significantly exceeded fatal casualties.
-* Urban areas experienced higher casualty counts.
-* Single Carriageways emerged as the highest-risk road type.
+# 📊 Power BI Analysis
+
+## Power BI Dashboard Development
+
+Using Power BI, I transformed the cleaned and analyzed road accident data into an interactive dashboard that enables stakeholders to monitor road safety performance, identify accident trends, and uncover actionable insights.
+
+The dashboard was designed with a focus on KPI monitoring, trend analysis, accident severity analysis, and location-based reporting.
+
+---
+## Dashboard
+
+<img width="1360" height="757" alt="Screenshot 2026-06-19 090941" src="https://github.com/user-attachments/assets/90b239e4-c52a-47c6-bb0a-78277e583bfb" />
+
+## 🎯 Dashboard Objectives
+
+* Monitor road accident performance using key KPIs.
+* Analyze casualty severity across multiple dimensions.
+* Identify high-risk road types and environmental conditions.
+* Compare accident trends over time.
+* Enable interactive filtering and drill-down analysis.
 
 ---
 
-## 📈 Power BI Dashboard
+## 📌 Key Performance Indicators (KPIs)
 
-### KPIs Developed
+<img width="1261" height="674" alt="Screenshot 2026-06-20 113059" src="https://github.com/user-attachments/assets/0ffd49c7-0272-4c58-b16a-1d68c99b94fa" />
 
-* Total Current Year Casualties
-* Total Current Year Accidents
-* Current Year Fatal Casualties
-* Current Year Serious Casualties
-* Current Year Slight Casualties
+### 🚑 Total Current Year (CY) Casualties
 
-### Visualizations
+### Visualization
 
-* Monthly Casualty Trends
-* Casualties by Vehicle Type
-* Casualties by Road Type
-* Casualties by Road Surface
-* Urban vs Rural Casualties
-* Casualties by Light Conditions
+<img width="1109" height="612" alt="image" src="https://github.com/user-attachments/assets/bee691db-d714-41d2-b7d1-24c3a8cc140e" />
 
-### Key Power BI Findings
 
-* Casualties peaked during specific months, indicating seasonal trends.
-* Single Carriageways recorded the highest casualty volume.
-* Cars were responsible for the majority of casualties.
-* Urban regions experienced more accidents than rural regions.
-* Slight casualties accounted for the largest proportion of total casualties.
+### 🚗 Total Current Year (CY) Accidents
+
+#### Visualization
+<img width="1068" height="572" alt="Screenshot 2026-06-20 113538" src="https://github.com/user-attachments/assets/037e4f5d-e913-4e07-8a65-d6a732a2330c" />
 
 ---
 
-## 📌 Project Outcome
+### ⚠️ CY Fatal Casualties
 
-The project transformed raw road accident data into actionable business insights through Excel analysis, SQL querying, and Power BI visualization. The findings help identify high-risk areas, accident patterns, and road safety concerns, supporting data-driven decision-making and accident prevention strategies.
+#### Visualization
+<img width="1061" height="577" alt="Screenshot 2026-06-20 113715" src="https://github.com/user-attachments/assets/f17fbe7e-f46f-4690-b3d0-1aa776f7f1c5" />
 
 ---
 
-## 👨‍💻 Author
+### 🏥 CY Serious Casualties
 
-Naveen Indla
+#### Image
+<img width="1064" height="594" alt="Screenshot 2026-06-20 113739" src="https://github.com/user-attachments/assets/4ced11c4-6e30-41f5-a885-84643d5e6a94" />
 
-Aspiring Data Analyst | SQL | Excel | Power BI | Python
+---
+
+### 🤕 CY Slight Casualties
+
+#### Visualization
+<img width="1063" height="588" alt="Screenshot 2026-06-20 113805" src="https://github.com/user-attachments/assets/898ade9c-307b-4297-ba69-82aa167ce3df" />
+
+---
+
+## Monthly Casualty Trend Analysis
+
+### Objective
+
+Compare monthly casualty trends between 2021 and 2022.
+
+### Visualization
+<img width="1098" height="612" alt="Screenshot 2026-06-20 113824" src="https://github.com/user-attachments/assets/2f189cd3-503e-4f73-944e-04677a42a4a3" />
+
+---
+
+## Casualties by Vehicle Type
+
+### Objective
+
+Identify which vehicle categories contribute most to casualties.
+
+### Key Findings
+
+* Cars contributed the highest number of casualties.
+* Bikes and Vans were the next major contributors.
+* Agricultural vehicles reported the lowest casualties.
+
+### Business Insight
+
+Targeted road safety initiatives for car drivers can significantly reduce overall casualties.
+
+### Visualization
+<img width="218" height="431" alt="Screenshot 2026-06-20 114306" src="https://github.com/user-attachments/assets/4ab4bef0-f946-455b-a904-e6c8e229632e" />
+
+---
+
+## Casualties by Road Type
+
+### Visualization
+<img width="1112" height="601" alt="Screenshot 2026-06-20 113913" src="https://github.com/user-attachments/assets/57b41f8c-e7ce-4121-8271-e01a3f84d461" />
+
+
+---
+
+## Casualties by Road Surface
+
+### Visualization
+<img width="1268" height="694" alt="Screenshot 2026-06-20 120717" src="https://github.com/user-attachments/assets/224fa259-5a41-46c0-a559-f296e80f93ed" />
+
+---
+
+## Casualties by Location
+
+### Visualization
+<img width="1131" height="494" alt="Screenshot 2026-06-20 121111" src="https://github.com/user-attachments/assets/d689a2f5-17b0-4bc4-9844-f640255e37c9" />
+
+
+---
+
+## Casualties by Light Conditions
+
+### Visualization
+
+<img width="1095" height="556" alt="Screenshot 2026-06-20 121122" src="https://github.com/user-attachments/assets/00497e25-d118-4f40-8db4-1836107d9beb" />
+
+---
+
+## Top 10 Locations Based on Casualties 
+
+### Visaulization
+<img width="1268" height="713" alt="Screenshot 2026-06-20 122306" src="https://github.com/user-attachments/assets/e2e512f2-e66a-46be-9395-adda1afb2f86" />
+
+---
+
+# 🎛️ Interactive Filters
+
+### Timeline Filter
+<img width="455" height="344" alt="Screenshot 2026-06-20 121714" src="https://github.com/user-attachments/assets/3e277f7d-0dba-4c67-8d7d-cbfbc4071839" />
+
+#### Purpose
+
+Allows users to filter accident data by year and month.
+
+#### Benefit
+
+Enables trend analysis across different time periods and supports year-over-year comparisons.
+
+---
+
+### Urban/Rural Slicer
+<img width="427" height="326" alt="Screenshot 2026-06-20 121924" src="https://github.com/user-attachments/assets/fa4e1cbd-f1de-4e9e-a593-27aa690cc350" />
+
+#### Purpose
+
+Allows users to analyze accident data separately for Urban and Rural areas.
+
+#### Benefit
+
+Helps identify location-specific accident patterns and supports targeted safety planning.
+
+---
+
+# 📌 Key Power BI Insights
+
+* Total casualties highlight the significant impact of road accidents on public safety.
+* Slight casualties represent the largest share of accident outcomes.
+* Cars contribute the highest number of casualties.
+* Single Carriageways are the most accident-prone road type.
+* Urban areas experience more casualties than rural areas.
+* Daylight conditions account for the majority of casualties.
+* Accident trends display seasonal fluctuations throughout the year.
+* Serious casualties significantly exceed fatal casualties.
+
+---
+
