@@ -525,3 +525,51 @@ Helps identify location-specific accident patterns and supports targeted safety 
 
 ---
 
+## 🎯 Project Objective
+
+The objective of this project is to analyze road accident data using Excel, SQL, and Power BI to identify accident patterns, casualty severity trends, vehicle involvement, road infrastructure risks, and environmental factors affecting road safety. The project aims to transform raw accident data into actionable insights through data cleaning, exploratory analysis, SQL-based business analysis, and interactive dashboard visualization to support data-driven decision-making and road safety improvements.
+
+
+## 📚 Key Learnings
+
+Throughout this project, I gained hands-on experience in end-to-end data analytics and business intelligence workflows.
+
+### Excel
+
+* Performed data cleaning, validation, and preprocessing.
+* Conducted exploratory data analysis (EDA) using Pivot Tables and Pivot Charts.
+* Created interactive dashboards and KPI reports.
+* Analyzed accident trends, casualty severity, and vehicle involvement.
+
+### SQL
+
+* Wrote complex SQL queries using filtering, aggregation, grouping, CASE statements, and date functions.
+* Solved business problems by analyzing casualties, accidents, road types, vehicle categories, and environmental conditions.
+* Generated actionable insights through data-driven analysis.
+
+### Power BI
+
+* Developed interactive dashboards using various visualizations.
+* Created DAX measures and KPIs for accident and casualty analysis.
+* Implemented slicers, filters, and dynamic reporting features.
+* Designed business-friendly dashboards for effective decision-making.
+
+### Business & Analytical Skills
+
+* Translated business questions into analytical solutions.
+* Identified key accident patterns and high-risk factors.
+* Derived actionable insights from large datasets.
+* Improved storytelling and data visualization skills.
+* Learned how to communicate findings effectively to stakeholders.
+
+## 🤝 Connect with Me
+
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/naveen-indla/)
+- 📧 Email: [ My Email](naveenindla32@gmail.com)
+
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to fork it!
+
+
