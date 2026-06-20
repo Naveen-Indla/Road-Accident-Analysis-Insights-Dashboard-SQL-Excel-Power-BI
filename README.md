@@ -385,13 +385,13 @@ The dashboard was designed with a focus on KPI monitoring, trend analysis, accid
 
 ## 🎯 Dashboard Objectives
 
+
 * Monitor road accident performance using key KPIs.
 * Analyze casualty severity across multiple dimensions.
 * Identify high-risk road types and environmental conditions.
 * Compare accident trends over time.
 * Enable interactive filtering and drill-down analysis.
 
----
 
 ## 📌 Key Performance Indicators (KPIs)
 
@@ -409,28 +409,24 @@ The dashboard was designed with a focus on KPI monitoring, trend analysis, accid
 #### Visualization
 <img width="1068" height="572" alt="Screenshot 2026-06-20 113538" src="https://github.com/user-attachments/assets/037e4f5d-e913-4e07-8a65-d6a732a2330c" />
 
----
 
 ### ⚠️ CY Fatal Casualties
 
 #### Visualization
 <img width="1061" height="577" alt="Screenshot 2026-06-20 113715" src="https://github.com/user-attachments/assets/f17fbe7e-f46f-4690-b3d0-1aa776f7f1c5" />
 
----
 
 ### 🏥 CY Serious Casualties
 
 #### Image
 <img width="1064" height="594" alt="Screenshot 2026-06-20 113739" src="https://github.com/user-attachments/assets/4ced11c4-6e30-41f5-a885-84643d5e6a94" />
 
----
 
 ### 🤕 CY Slight Casualties
 
 #### Visualization
 <img width="1063" height="588" alt="Screenshot 2026-06-20 113805" src="https://github.com/user-attachments/assets/898ade9c-307b-4297-ba69-82aa167ce3df" />
 
----
 
 ## Monthly Casualty Trend Analysis
 
@@ -441,7 +437,6 @@ Compare monthly casualty trends between 2021 and 2022.
 ### Visualization
 <img width="1098" height="612" alt="Screenshot 2026-06-20 113824" src="https://github.com/user-attachments/assets/2f189cd3-503e-4f73-944e-04677a42a4a3" />
 
----
 
 ## Casualties by Vehicle Type
 
@@ -462,7 +457,6 @@ Targeted road safety initiatives for car drivers can significantly reduce overal
 ### Visualization
 <img width="218" height="431" alt="Screenshot 2026-06-20 114306" src="https://github.com/user-attachments/assets/4ab4bef0-f946-455b-a904-e6c8e229632e" />
 
----
 
 ## Casualties by Road Type
 
@@ -470,14 +464,11 @@ Targeted road safety initiatives for car drivers can significantly reduce overal
 <img width="1112" height="601" alt="Screenshot 2026-06-20 113913" src="https://github.com/user-attachments/assets/57b41f8c-e7ce-4121-8271-e01a3f84d461" />
 
 
----
-
 ## Casualties by Road Surface
 
 ### Visualization
 <img width="1268" height="694" alt="Screenshot 2026-06-20 120717" src="https://github.com/user-attachments/assets/224fa259-5a41-46c0-a559-f296e80f93ed" />
 
----
 
 ## Casualties by Location
 
@@ -485,22 +476,18 @@ Targeted road safety initiatives for car drivers can significantly reduce overal
 <img width="1131" height="494" alt="Screenshot 2026-06-20 121111" src="https://github.com/user-attachments/assets/d689a2f5-17b0-4bc4-9844-f640255e37c9" />
 
 
----
-
 ## Casualties by Light Conditions
 
 ### Visualization
 
 <img width="1095" height="556" alt="Screenshot 2026-06-20 121122" src="https://github.com/user-attachments/assets/00497e25-d118-4f40-8db4-1836107d9beb" />
 
----
 
-## Top 10 Locations Based on Casualties 
+## Top 10 Local Authorities Based on Casualties 
 
 ### Visaulization
 <img width="1268" height="713" alt="Screenshot 2026-06-20 122306" src="https://github.com/user-attachments/assets/e2e512f2-e66a-46be-9395-adda1afb2f86" />
 
----
 
 # 🎛️ Interactive Filters
 
@@ -515,7 +502,6 @@ Allows users to filter accident data by year and month.
 
 Enables trend analysis across different time periods and supports year-over-year comparisons.
 
----
 
 ### Urban/Rural Slicer
 <img width="427" height="326" alt="Screenshot 2026-06-20 121924" src="https://github.com/user-attachments/assets/fa4e1cbd-f1de-4e9e-a593-27aa690cc350" />
@@ -528,7 +514,6 @@ Allows users to analyze accident data separately for Urban and Rural areas.
 
 Helps identify location-specific accident patterns and supports targeted safety planning.
 
----
 
 # 📌 Key Power BI Insights
 
