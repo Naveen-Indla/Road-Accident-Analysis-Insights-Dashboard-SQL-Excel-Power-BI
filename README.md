@@ -21,6 +21,8 @@ This project aims to analyze accident and casualty data to uncover trends relate
 * Microsoft Excel
 * SQL
 * Power BI
+* SQL Server Management Studio 20
+* Power BI Desktop
 
 ---
 
