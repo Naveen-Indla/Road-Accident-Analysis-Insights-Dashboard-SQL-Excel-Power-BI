@@ -71,8 +71,10 @@ Monthly Trend Analysis
 <img width="1860" height="421" alt="Screenshot 2026-06-16 201320" src="https://github.com/user-attachments/assets/3d00bcbf-c3b7-4384-8063-b511da9e12f0" />
 
 
-Casualties by Road Type and Road Surface 
+Casualties by Road Type 
 <img width="1085" height="275" alt="Screenshot 2026-06-17 061445" src="https://github.com/user-attachments/assets/1fc8faf2-377e-4d11-a169-661e1bdb6512" />
+
+Casualties by Raod Surfaces 
 <img width="762" height="509" alt="Screenshot 2026-06-20 073110" src="https://github.com/user-attachments/assets/d42991a8-b154-4333-b99c-1954e5c7ecd7" />
 
 
